@@ -13,7 +13,7 @@ const report = () => {
                 <label for="problem">Causa</label>
                 <select id="problem" name="problem">
                 <option value="">------</option>
-                <option value="australia">Problema</option>
+                <option value="australia">Daños</option>
                 <option value="canada">Duda</option>
                 </select>
 
